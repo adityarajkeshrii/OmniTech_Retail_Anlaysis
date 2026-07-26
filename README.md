@@ -1,5 +1,7 @@
 # OmniTech_Retail_Anlaysis
-OmniTech Retail Performance DashboardA comprehensive Power BI business intelligence solution designed to analyze and optimize retail performance across customer demographics, regional sales, profitability drivers, and return behaviors.
+OmniTech Retail Performance Dashboard
+
+A comprehensive Power BI business intelligence solution designed to analyze and optimize retail performance across customer demographics, regional sales, profitability drivers, and return behaviors.
 
 🚀 Project OverviewThis project transforms raw retail data into actionable strategic insights using Power Query for data cleansing/transformation and Power BI for advanced visual modeling. The analytics architecture evaluates customer segmentation, geographic performance, revenue drivers, and operational risks.
 
